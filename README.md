@@ -5,12 +5,12 @@
 </div>
 
 
-> # Rails-React 
+> # Hello Rails Backend 
 
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Hello Rails-React ](#-hello-rails-react-)
+- [📖 Hello Rails-Backend ](#-hello-rails-backend-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -27,9 +27,9 @@
   - [🙏 Acknowledgments ](#-acknowledgments-)
   - [📝 License ](#-license-)
 
-# 📖 Hello Rails-React <a name="about-project"></a>
+# 📖 Hello Rails-Backend <a name="about-project"></a>
 
-**Hello Rails-React** Is a fullstack app that combines Ruby on Rails for the back end and React for the front end. The Ruby on Rails app provides JSON-formated data through an API endpoint that is then consumed by the React app and rendered on the browser. This project can be used as a template for simple Rails-React applications.
+**Hello Rails-Backend** Is a fullstack app that combines Ruby on Rails for the back end and React for the front end. The Ruby on Rails app provides JSON-formated data through an API endpoint that is then consumed by the React app and rendered on the browser. This project can be used as a template for simple Rails-React applications.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -73,8 +73,7 @@ In order to run this project you need:
 
 Clone this project:
 
-    git@github.com:wineshuga/hello-rails-react.git
-
+    https://github.com/Wineshuga/hello-rails-back-end.git
 
 ### Install
 Open the terminal in the root directory of the project and run the following command to install all dependencies.
@@ -82,12 +81,10 @@ Open the terminal in the root directory of the project and run the following com
     bundle install
     npm i
 
-
 ### Usage
 To start the development server, run the following command then navigate to `localhost:3000` in your browser.
 
     ./bin/dev
-
 
 ### Run tests
 There are no tests to run.
@@ -111,14 +108,13 @@ There are no tests to run.
 
 - None planned
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/wineshuga/hello-rails-back-end/issues).
+Feel free to check the [issues page](https://github.com/Wineshuga/hello-rails-back-end/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
