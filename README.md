@@ -29,7 +29,7 @@
 
 # 📖 Hello Rails-Backend <a name="about-project"></a>
 
-**Hello Rails-Backend** Is a fullstack app that combines Ruby on Rails for the back end and React for the front end. The Ruby on Rails app provides JSON-formated data through an API endpoint that is then consumed by the React app and rendered on the browser. This project can be used as a template for simple Rails-React applications.
+**Hello Rails-Backend** Is a fullstack app that combines Ruby on Rails for the back end and React for the front end. The Ruby on Rails app provides JSON-formated data through an API endpoint that is then consumed by the React app and rendered on the browser. This project can be used as a template for simple Rails-React applications. Here is the repository for the frontend: https://github.com/wineshuga/hello-react-front-end
 
 ## 🛠 Built With <a name="built-with"></a>
 
